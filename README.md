@@ -1,4 +1,4 @@
-﻿# {{repo_name}}
+﻿# ReactApp-with-Jest
 
  Run below command & genrate private key & public key.
  - add deploy keys & private key
